@@ -1,0 +1,128 @@
+{
+            "BenchOrderDH" : -1,
+            "StartingPositionDH" : -1,
+            "BattingOrderDH" : -1,
+            "BenchOrder9" : -44,
+            "StartinPosition9" : -33,
+            "BattingOrder9" : -22,
+            "StatusMsg" : "",
+            "TradeStatus" : false,
+            "Status" : 1,
+            "onFortyMan" : true,
+            "Level" : "ML",
+            "Options" : {
+                "PriorOR" : "",
+                "Options" : 3
+            },
+            "rSalary" : {
+                "2018" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "$3.125"
+                },
+                "2019" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "$3.125"
+                },
+                "2020" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "$3.125"
+                },
+                "2021" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "$3.125"
+                },
+                "2022" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "$3.125"
+                },
+                "2023" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "$3.125"
+                },
+                "2024" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : "FA"
+                },
+                "2025" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : ""
+                },
+                "2026" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : ""
+                },
+                "2027" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : ""
+                },
+                "2028" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : ""
+                },
+                "2029" : {
+                    "Buyout" : "",
+                    "Contract" : "",
+                    "Salary" : ""
+                },
+                "FreeAgent" : "",
+                "Notes" : "",
+                "Contract" : [ 
+                    {
+                        "MlbId" : "628317",
+                        "FirstName" : "Kenta",
+                        "LastName" : "Maeda",
+                        "FullName" : "Kenta Maeda",
+                        "PBType" : "IP",
+                        "PBThreshholds" : "90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190",
+                        "PBDollars" : "$0.25",
+                        "AwardType" : "Making Opening Day Roster",
+                        "AwardDollars" : "$0.15",
+                        "EscalatorType" : "",
+                        "EscalatorThreshholds" : "",
+                        "EscalatorPlatformYear" : "",
+                        "EscalatorYear" : "",
+                        "EscalatorDollarsIncrease" : "",
+                        "EscalatorDollarsNewSalary" : "",
+                        "TradeBonus" : "$1.00",
+                        "OptionYear" : "",
+                        "OptionPlatformYear" : "",
+                        "OptionIncentives" : "",
+                        "OptionIncentiveThreshholds" : "",
+                        "OptionNotes" : "",
+                        "ArbitrationOptIn" : "",
+                        "Other" : "Becomes free agent at end of contract",
+                        "ContractNotes" : ""
+                    }
+                ],
+                "Details" : "",
+                "SigningBonus" : "",
+                "AAV" : "$3.125"
+            },
+            "Image" : "http://mlb.mlb.com/mlb/images/players/head_shot/628317.jpg",
+            "Position" : "P",
+            "Depth" : "",
+            "Throws" : "R",
+            "Bats" : "R",
+            "SigningYear" : "2016",
+            "MLS" : "2.000",
+            "DOB" : "4/11/88",
+            "Age" : "29",
+            "LastName" : "Maeda",
+            "FirstName" : "Kenta",
+            "FirstInitial" : "K",
+            "FullName" : "Kenta Maeda",
+            "MlbId" : "628317",
+            "Source" : "MasterList",
+            "PlayerId" : "5a20526809c3c49072385b6d"
+        }

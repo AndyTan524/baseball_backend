@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2aee2e8c-2d6a-4671-9707-cf1056abb50b}</ProjectGuid>
+    <ProjectHome />
+    <ProjectView>ProjectFiles</ProjectView>
+    <StartupFile>app.js</StartupFile>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{3AF33F2E-1136-4D97-BBB7-1795711AC8B8};{349c5851-65df-11da-9384-00065b846f21};{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <ItemGroup>
+    <Compile Include="aa-main-gameplay.js" />
+    <Compile Include="cron.hourly.js" />
+    <Compile Include="cron.js" />
+    <Compile Include="data\twilio.js" />
+    <Compile Include="helpers\accessHelper.js" />
+    <Compile Include="helpers\cloudstorage.js" />
+    <Compile Include="helpers\contractExtras.js" />
+    <Compile Include="helpers\csvHelper.js" />
+    <Compile Include="helpers\dealHelper.js" />
+    <Compile Include="helpers\finalStandings.js" />
+    <Compile Include="helpers\firebaseHelper.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\ftp.js" />
+    <Compile Include="helpers\gameHelper.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\importHelper.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\leagueHelper.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\messageHelper.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\messageTypes.js" />
+    <Compile Include="helpers\ownershipMatrix.js" />
+    <Compile Include="helpers\playerHelper.js" />
+    <Compile Include="helpers\playerSalaryObject.js" />
+    <Compile Include="helpers\rosterHelper.js" />
+    <Compile Include="helpers\sendGridHelper.js" />
+    <Compile Include="helpers\simulation.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\simulationHelper.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="helpers\teamHelper.js" />
+    <Compile Include="helpers\twilioHelper.js" />
+    <Compile Include="helpers\userRoles.js" />
+    <Compile Include="models\accumulatedStats.js" />
+    <Compile Include="models\api.js" />
+    <Compile Include="models\arbitration.js" />
+    <Compile Include="models\baserunning.js" />
+    <Compile Include="models\batting.js" />
+    <Compile Include="models\boxscore.js" />
+    <Compile Include="models\calendar.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="models\content.js" />
+    <Compile Include="models\contract.js" />
+    <Compile Include="models\deal.js" />
+    <Compile Include="models\email.js" />
+    <Compile Include="models\fielding.js" />
+    <Compile Include="models\freeagent.js" />
+    <Compile Include="models\league.js" />
+    <Compile Include="models\log.js" />
+    <Compile Include="models\masterPlayer.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="models\message.js" />
+    <Compile Include="models\messageBody.js" />
+    <Compile Include="models\pitching.js" />
+    <Compile Include="models\player.js" />
+    <Compile Include="models\playerdaily.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="models\request.js" />
+    <Compile Include="models\roster.js" />
+    <Compile Include="models\rosterLineup.js" />
+    <Compile Include="models\schedule.js" />
+    <Compile Include="models\scheduleOld.js" />
+    <Compile Include="models\simPlayer.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="models\standings.js" />
+    <Compile Include="models\stat.js" />
+    <Compile Include="models\state.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="models\team.js" />
+    <Compile Include="models\transaction.js" />
+    <Compile Include="models\usedGame.js" />
+    <Compile Include="models\user.js" />
+    <Compile Include="models\ytdfielding.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="models\ytdstats.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="routes\accumulatedStats.js" />
+    <Compile Include="routes\admin.js" />
+    <Compile Include="routes\api.js" />
+    <Compile Include="routes\arbitration.js" />
+    <Compile Include="routes\common.js" />
+    <Compile Include="routes\deals.js" />
+    <Compile Include="routes\leagues.js" />
+    <Compile Include="routes\messaging.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="routes\owners.js" />
+    <Compile Include="routes\player.js" />
+    <Compile Include="routes\requests.js" />
+    <Compile Include="routes\rosters.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="routes\schedule.js" />
+    <Compile Include="routes\scraper.js" />
+    <Compile Include="routes\simulation.js" />
+    <Compile Include="routes\sitecontent.js" />
+    <Compile Include="routes\standings.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="routes\stats.js" />
+    <Compile Include="routes\teams.js" />
+    <Compile Include="routes\transactions.js" />
+    <Compile Include="routes\user.js" />
+    <Compile Include="data\mongo.js" />
+    <Compile Include="sample-cron.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="simulator\play-game-helper.js" />
+    <Compile Include="simulator\play-game.js" />
+    <Compile Include="simulator\players.js" />
+    <Compile Include="simulator\record-game.js" />
+    <Compile Include="simulator\render-CSV.js" />
+    <Compile Include="simulator\rosters.js" />
+    <Compile Include="simulator\schedule.js" />
+    <Compile Include="simulator\set-lineup-helper.js" />
+    <Compile Include="simulator\set-lineup.js" />
+    <Compile Include="simulator\set-pitchers-helper.js" />
+    <Compile Include="simulator\set-pitchers.js" />
+    <Compile Include="simulator\sim-game-helper.js" />
+    <Compile Include="simulator\sim-game.js" />
+    <Compile Include="simulator\utils.js" />
+    <Content Include=".gitignore" />
+    <Content Include="cfg\keyfile.json" />
+    <Content Include="data\2017stats\baserunning.csv" />
+    <Content Include="data\2017stats\batters.csv" />
+    <Content Include="data\2017stats\blockframecera.csv" />
+    <Content Include="data\2017stats\catchers.csv" />
+    <Content Include="data\2017stats\defense.csv" />
+    <Content Include="data\2017stats\fieldingindex.csv" />
+    <Content Include="data\2017stats\psoverall.csv" />
+    <Content Include="data\2017stats\rps.csv" />
+    <Content Include="data\2017stats\rvalue.csv" />
+    <Content Include="data\2017stats\sps.csv" />
+    <Content Include="data\2017stats\zone.csv" />
+    <Content Include="data\freeagents.csv" />
+    <Content Include="data\master.csv" />
+    <Content Include="data\schedule.csv" />
+    <Compile Include="helpers\playerStatus.js" />
+    <Compile Include="helpers\teamInfo.js" />
+    <Content Include="package.json" />
+    <Content Include="README.md" />
+    <Compile Include="app.js" />
+    <Compile Include="helpers\utils.js" />
+    <Content Include="simulator\algorithms.json" />
+    <Content Include="simulator\boxscore-template.json" />
+    <Content Include="simulator\games\rfb-zzz-test" />
+    <Content Include="simulator\games\rfb-zzz-test-ARIvsATL.csv" />
+    <Content Include="simulator\games\rfb-zzz-test-BALvsBOS.csv" />
+    <Content Include="simulator\games\rfb-zzz-test.csv" />
+    <Content Include="simulator\sampleDataFromMongo\baserunning.json" />
+    <Content Include="simulator\sampleDataFromMongo\batting.json" />
+    <Content Include="simulator\sampleDataFromMongo\fielding.json" />
+    <Content Include="simulator\sampleDataFromMongo\leagues.json" />
+    <Content Include="simulator\sampleDataFromMongo\oneteam.json" />
+    <Content Include="simulator\sampleDataFromMongo\pitching.json" />
+    <Content Include="simulator\sampleDataFromMongo\players.json" />
+    <Content Include="simulator\sampleDataFromMongo\rosters.json" />
+    <Content Include="simulator\sampleDataFromMongo\rosters6.json" />
+    <Content Include="simulator\sampleDataFromMongo\teamStats-ARI.json" />
+    <Content Include="simulator\sampleDataFromMongo\teamStats-ATL.json" />
+    <Content Include="simulator\sampleDataFromMongo\teamStats-BAL.json" />
+    <Content Include="simulator\sampleDataFromMongo\teamStats-BOS.json" />
+    <Content Include="simulator\teamInfo.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\2017stats\" />
+    <Folder Include="models\" />
+    <Folder Include="helpers\" />
+    <Folder Include="data\" />
+    <Folder Include="cfg\" />
+    <Folder Include="routes\" />
+    <Folder Include="simulator\" />
+    <Folder Include="simulator\games\" />
+    <Folder Include="simulator\sampleDataFromMongo\" />
+    <Folder Include="typings\" />
+    <Folder Include="typings\globals\" />
+    <Folder Include="typings\globals\assert\" />
+    <Folder Include="typings\globals\cheerio\" />
+    <Folder Include="typings\globals\express-session\" />
+    <Folder Include="typings\globals\moment\" />
+    <Folder Include="typings\globals\mongoose\" />
+    <Folder Include="typings\globals\node\" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="typings\globals\assert\index.d.ts" />
+    <TypeScriptCompile Include="typings\globals\cheerio\index.d.ts" />
+    <TypeScriptCompile Include="typings\globals\express-session\index.d.ts" />
+    <TypeScriptCompile Include="typings\globals\moment\index.d.ts" />
+    <TypeScriptCompile Include="typings\globals\mongoose\index.d.ts" />
+    <TypeScriptCompile Include="typings\globals\node\index.d.ts" />
+    <TypeScriptCompile Include="typings\index.d.ts" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <!--Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them.-->
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />
+  <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:48022/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost:1337</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

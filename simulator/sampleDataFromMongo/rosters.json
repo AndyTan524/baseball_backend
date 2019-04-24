@@ -1,0 +1,343 @@
+{
+    "_id" : "59910412460c8f2410588701",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "4f88f73b-28b2-4ead-853e-dd20c46d8350",
+    "FortyMan" : [ 
+        "595da1197aca71a2bcdc54a6", 
+        "595da1197aca71a2bcdc54b1", 
+        "595da1197aca71a2bcdc54ef", 
+        "595da1197aca71a2bcdc5502", 
+        "595da1197aca71a2bcdc5516", 
+        "595da1197aca71a2bcdc5520", 
+        "595da1197aca71a2bcdc550a", 
+        "595da1197aca71a2bcdc5514", 
+        "595da1197aca71a2bcdc551f", 
+        "595da1197aca71a2bcdc551d", 
+        "595da1197aca71a2bcdc5521", 
+        "595da1197aca71a2bcdc5557", 
+        "595da1197aca71a2bcdc554e", 
+        "595da1197aca71a2bcdc5553", 
+        "595da1197aca71a2bcdc5545", 
+        "595da1197aca71a2bcdc5551", 
+        "595da1197aca71a2bcdc555b", 
+        "595da1197aca71a2bcdc5560", 
+        "595da1197aca71a2bcdc5555", 
+        "595da1197aca71a2bcdc555f", 
+        "595da1197aca71a2bcdc5569", 
+        "595da1197aca71a2bcdc556e", 
+        "595da1197aca71a2bcdc5567", 
+        "595da1197aca71a2bcdc556c", 
+        "595da1197aca71a2bcdc554a", 
+        "595da1197aca71a2bcdc554f", 
+        "595da1197aca71a2bcdc5563", 
+        "595da1197aca71a2bcdc5572", 
+        "595da1197aca71a2bcdc5689", 
+        "595da1197aca71a2bcdc5aa3", 
+        "595da11a7aca71a2bcdc5e2a", 
+        "595da11a7aca71a2bcdc60dd", 
+        "595da11a7aca71a2bcdc6539", 
+        "595da11a7aca71a2bcdc6532", 
+        "595da11a7aca71a2bcdc653c", 
+        "595da11a7aca71a2bcdc6754", 
+        "595da11a7aca71a2bcdc675d", 
+        "595da11b7aca71a2bcdc705a", 
+        "595da11b7aca71a2bcdc7285", 
+        "595da11a7aca71a2bcdc6abc", 
+        "595da11b7aca71a2bcdc6f6c", 
+        "595da11b7aca71a2bcdc7053"
+    ],
+    "Bench" : [ 
+        "595da1197aca71a2bcdc5557", 
+        "595da1197aca71a2bcdc554e"
+    ],
+    "WaiverWire" : [ 
+        "595da1197aca71a2bcdc5553", 
+        "595da1197aca71a2bcdc5545", 
+        "595da1197aca71a2bcdc5551"
+    ],
+    "Bullpen" : [ 
+        "595da1197aca71a2bcdc5555", 
+        "595da1197aca71a2bcdc555f", 
+        "595da1197aca71a2bcdc5569", 
+        "595da1197aca71a2bcdc556e", 
+        "595da1197aca71a2bcdc5567", 
+        "595da1197aca71a2bcdc556c", 
+        "595da1197aca71a2bcdc554a"
+    ],
+    "StartingLineup" : [ 
+        "595da1197aca71a2bcdc54ef", 
+        "595da1197aca71a2bcdc5502", 
+        "595da1197aca71a2bcdc5516", 
+        "595da1197aca71a2bcdc5520", 
+        "595da1197aca71a2bcdc550a", 
+        "595da1197aca71a2bcdc5514"
+    ],
+    "StartingRotation" : [ 
+        "595da1197aca71a2bcdc54a6", 
+        "595da1197aca71a2bcdc54b1", 
+        "595da1197aca71a2bcdc551f", 
+        "595da1197aca71a2bcdc551d", 
+        "595da1197aca71a2bcdc5521"
+    ],
+    "WaiverWire" : [ 
+        "595da1197aca71a2bcdc555b", 
+        "595da1197aca71a2bcdc5560"
+    ],
+    "__v" : 2,
+    "Positions" : [ 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5560",
+                    "FullName" : "Jeff Mathis"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc7053",
+                    "FullName" : "Chris Iannetta"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc555b",
+                    "FullName" : "Chris Herrmann"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Catcher"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5555",
+                    "FullName" : "Paul Goldschmidt"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc555b",
+                    "FullName" : "Chris Herrmann"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "First Base"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5551",
+                    "FullName" : "Brandon Drury"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Second Base"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc555f",
+                    "FullName" : "Jake Lamb"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Third Base"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11b7aca71a2bcdc705a",
+                    "FullName" : "Ketel Marte"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Shortstop"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5569",
+                    "FullName" : "David Peralta"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6539",
+                    "FullName" : "Gregor Blanco"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Left Field"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc556c",
+                    "FullName" : "A.J. Pollock"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6539",
+                    "FullName" : "Gregor Blanco"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Center Field"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11a7aca71a2bcdc60dd",
+                    "FullName" : "J.D. Martinez"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5569",
+                    "FullName" : "David Peralta"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6539",
+                    "FullName" : "Gregor Blanco"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Right Field"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5557",
+                    "FullName" : "Zack Greinke"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5689",
+                    "FullName" : "Taijuan Walker"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5521",
+                    "FullName" : "Patrick Corbin"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5553",
+                    "FullName" : "Zack Godley"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc54ef",
+                    "FullName" : "Anthony Banda"
+                }
+            ],
+            "Position" : "Starting Pitcher"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11b7aca71a2bcdc7285",
+                    "FullName" : "David Hernandez"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5545",
+                    "FullName" : "Archie Bradley"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc5e2a",
+                    "FullName" : "Jorge De La Rosa"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6532",
+                    "FullName" : "T.J. McFarland"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc554a",
+                    "FullName" : "Andrew Chafin"
+                }
+            ],
+            "Position" : "Relief Pitcher"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5572",
+                    "FullName" : "Fernando Rodney"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Closer"
+        }
+    ]
+}

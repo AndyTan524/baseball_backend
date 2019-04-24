@@ -1,0 +1,120 @@
+LastName,FirstName,MLBId,PlayerName,PlayerId,Team,TeamNbr,Pos,G,GS,INN,CBlockingRuns,CFramingRuns,Cera
+Romine,Andrew James,461865,Romine Andrew,1159,Tigers,1,2,1,0,0.1,0,0,27.00
+Ramos,Wilson,467092,Ramos Wilson,1433,Rays,1,2,62,57,499.2,-4,1,3.78
+Ruiz,Carlos Joaquin,434563,Ruiz Carlos,2579,Mariners,1,2,47,40,350.1,0,-6,4.75
+Pina,Manuel,444489,Pina Manny,2829,Brewers,1,2,102,83,760.1,2,1,3.80
+Perez,Roberto,547379,Perez Roberto,2900,Indians,1,2,71,66,580.2,2,8,3.22
+Chirinos,Robinson,455139,Chirinos Robinson,3142,Rangers,1,2,85,80,691.1,4,-2,4.62
+Castillo,Welington,456078,Castillo Welington,3256,Orioles,1,2,88,86,753.1,2,-6,5.62
+Montero,Miguel,471083,Montero Miguel,3364,Blue Jays,2,2,27,22,197,1,1,5.16
+Montero,Miguel,471083,Montero Miguel,3364,Cubs,1,2,29,28,215.1,-1,2,4.35
+Hundley,Nicholas,460026,Hundley Nick,3376,Giants,1,2,82,65,608.1,-1,-4,4.50
+Butera,Andrew,460077,Butera Drew,3411,Royals,1,2,74,43,432,0,-7,5.48
+Mathis,Jeffery,425772,Mathis Jeff,3448,Diamondbacks,1,2,58,56,474.2,1,5,3.53
+Rivera,Rene,425784,Rivera Rene,3648,Cubs,2,2,19,11,116,-1,0,3.96
+Rivera,Rene,425784,Rivera Rene,3648,Mets,1,2,52,48,421.1,-2,0,5.21
+Soto,Geovany,434567,Soto Geovany,3707,White Sox,1,2,13,12,108.2,0,-1,2.48
+Stewart,Chris,455755,Stewart Chris,3878,Pirates,1,2,48,40,354.2,0,2,4.01
+Recker,Anthony,489232,Recker Anthony,4063,Braves,1,2,4,1,13,0,0,9.69
+Lobaton,Jose,446653,Lobaton Jose,4243,Nationals,1,2,50,43,376,0,-1,4.48
+Wieters,Matthew,446308,Wieters Matt,4298,Nationals,1,2,118,113,1003.2,-2,-4,3.62
+Kratz,Erik,456124,Kratz Erik,4403,Yankees,1,2,2,0,2,0,0,13.50
+Martin,Russell,431145,Martin Russell,4616,Blue Jays,1,2,83,78,683.2,1,3,4.48
+McCann,Brian,435263,McCann Brian,4810,Astros,1,2,95,94,827.1,-2,4,4.36
+Hanigan,Ryan,452672,Hanigan Ryan,4952,Rockies,1,2,30,29,257,2,-5,4.03
+Vogt,Stephen Guy,519390,Vogt Stephen,5000,A's,1,2,43,36,312,-1,2,5.34
+Vogt,Stephen Guy,519390,Vogt Stephen,5000,Brewers,2,2,38,33,273.1,2,1,3.13
+Leon,Sandy David,506702,Leon Sandy,5273,Red Sox,1,2,84,77,699.1,0,8,3.44
+Cervelli,Francisco,465041,Cervelli Francisco,5275,Pirates,1,2,78,75,645.1,-1,-3,4.28
+Gosewisch,James,488912,Gosewisch Tuffy,5277,Mariners,1,2,10,8,76,0,0,4.62
+Graterol,Juan,492802,Graterol Juan,5398,Angels,1,2,47,26,245,4,1,4.19
+Romine,Austin Allen,519222,Romine Austin,5491,Yankees,1,2,67,58,517.2,0,3,4.22
+Higashioka,Kyle,543309,Higashioka Kyle,5517,Yankees,1,2,8,5,48,0,0,3.56
+Saltalamacchia,Jarrod,457454,Saltalamacchia Jarrod,5557,Blue Jays,1,2,7,6,52,0,0,5.02
+Mesoraco,Devin Douglas,519023,Mesoraco Devin,5666,Reds,1,2,40,37,305.1,0,-3,6.19
+Ellis,Andrew,454560,Ellis A.J.,5677,Marlins,1,2,39,36,329,1,-5,4.43
+Sucre,Jesus Marcelo,491696,Sucre Jesus,5942,Rays,1,2,61,51,463.1,0,3,4.35
+Escobar,Eduardo Jose,500871,Escobar Eduardo,6153,Twins,1,2,1,0,1,0,0,0.00
+Norris,Derek,519083,Norris Derek,6867,Rays,1,2,53,52,454,-2,3,3.93
+Maldonado,Martin,455117,Maldonado Martin,6887,Angels,1,2,137,131,1146.1,3,12,4.17
+Molina,Yadier,425877,Molina Yadier,7007,Cardinals,1,2,133,133,1125.2,1,4,4.02
+Jimenez,Antonio,543362,Jimenez A.J.,7077,Rangers,1,2,5,1,20,0,0,4.05
+Joseph,Caleb,543376,Joseph Caleb,7087,Orioles,1,2,79,69,621.2,4,2,4.23
+Centeno,Juan,518542,Centeno Juan,7168,Astros,1,2,22,15,140.2,-1,-2,3.52
+Perez,Salvador,521692,Perez Salvador,7304,Royals,1,2,115,113,941.2,3,-6,4.29
+Gimenez,Chris,460269,Gimenez Chris,7324,Twins,1,2,59,54,475.2,-2,0,5.22
+Avila,Alex,488671,Avila Alex,7476,Tigers,1,2,50,46,405.1,2,-5,4.84
+Avila,Alex,488671,Avila Alex,7476,Cubs,2,2,28,24,209,1,-2,4.13
+d'Arnaud,Travis,518595,d'Arnaud Travis,7739,Mets,1,2,93,88,771.1,2,-1,4.80
+Lucroy,Jonathan,518960,Lucroy Jonathan,7870,Rangers,1,2,66,65,578,-3,-6,4.75
+Lucroy,Jonathan,518960,Lucroy Jonathan,7870,Rockies,2,2,44,43,369.2,0,-4,4.02
+Fryer,Eric Joseph,518700,Fryer Eric,8145,Cardinals,1,2,26,15,162.2,0,2,4.04
+Suzuki,Kurt,435559,Suzuki Kurt,8259,Braves,1,2,77,71,641.1,2,0,4.49
+Iannetta,Christopher,455104,Iannetta Chris,8267,Diamondbacks,1,2,78,70,632.2,0,3,4.03
+Pena,Francisco Antonio,506747,Pena Francisco,8298,Orioles,1,2,5,3,26,0,0,3.46
+Federowicz,Timothy Joseph,543148,Federowicz Tim,8609,Giants,1,2,6,1,17.1,0,0,3.12
+Castro,Jason Michael,488771,Castro Jason,8722,Twins,1,2,108,104,908.2,-1,3,4.18
+Lavarnway,Ryan Cole,543432,Lavarnway Ryan,8879,A's,1,2,5,4,35,-1,0,3.34
+Flowers,Tyler,452095,Flowers Tyler,9134,Braves,1,2,85,85,745,-3,20,4.88
+Posey,Buster,457763,Posey Buster,9166,Giants,1,2,99,96,826.1,-1,3,4.53
+Herrmann,Christopher,543302,Herrmann Chris,9284,Diamondbacks,1,2,45,35,317.2,2,-2,3.20
+Phegley,Joshua Aaron,572033,Phegley Josh,9308,A's,1,2,56,45,394.2,0,1,4.24
+Garneau,Dustin Thomas,572863,Garneau Dustin,9433,A's,2,2,18,15,126,0,-1,3.93
+Garneau,Dustin Thomas,572863,Garneau Dustin,9433,Rockies,1,2,22,18,170.2,0,-3,3.64
+Gomes,Yan,543228,Gomes Yan,9627,Indians,1,2,103,96,856,2,-2,3.36
+Vazquez,Christian,543877,Vazquez Christian,9774,Red Sox,1,2,95,85,771,-1,15,4.05
+Stassi,Max Robert,545358,Stassi Max,10059,Astros,1,2,11,6,64.1,0,1,3.92
+Telis,Tomas,542513,Telis Tomas,10067,Marlins,1,2,6,1,18,0,0,3.00
+Barnhart,Tucker,571466,Barnhart Tucker,10200,Reds,1,2,110,105,926.1,3,-10,4.74
+Sanchez,Hector Enrique,516949,Sanchez Hector,10289,Padres,1,2,25,19,163.2,-3,-2,4.73
+Murphy,John,571974,Murphy John Ryan,10346,Diamondbacks,1,2,5,1,16,0,0,3.38
+Ohlman,Michael Livingston,572000,Ohlman Mike,10347,Blue Jays,1,2,6,3,34.2,1,0,7.01
+Gale,Rocky,502570,Gale Rocky,10533,Padres,1,2,3,3,23,0,0,7.43
+Freitas,David,571679,Freitas David,10619,Braves,1,2,6,5,42,0,0,3.86
+Perez,Carlos Eduardo,542208,Perez Carlos,10642,Angels,1,2,10,5,49.1,-1,0,4.93
+Brantly,Rob Jacob,542963,Brantly Rob,10655,White Sox,1,2,6,5,42,0,0,6.86
+Gattis,Evan,594828,Gattis Evan,11003,Astros,1,2,49,47,413.2,-2,3,3.87
+Rupp,Cameron Arthur,519237,Rupp Cameron,11146,Phillies,1,2,88,83,749.1,0,-10,4.44
+Nicholas,Brett James,592592,Nicholas Brett,11192,Rangers,1,2,19,16,145,0,-3,4.97
+Holaday,John Bryan,592407,Holaday Bryan,11287,Tigers,1,2,11,7,63,-1,-1,3.71
+Grandal,Yasmani,518735,Grandal Yasmani,11368,Dodgers,1,2,117,113,999.1,0,12,3.22
+Sanchez,Gary,596142,Sanchez Gary,11442,Yankees,1,2,104,99,881,-5,1,3.45
+Wolters,Tony John,547172,Wolters Tony,11470,Rockies,1,2,77,66,586.1,1,-2,5.07
+Contreras,Willson Eduardo,575929,Contreras Willson,11609,Cubs,1,2,108,91,821.1,-1,-8,3.91
+Diaz,Elias David,553869,Diaz Elias,11680,Pirates,1,2,55,44,407.1,1,-7,4.24
+Realmuto,Jacob,592663,Realmuto J.T.,11739,Marlins,1,2,126,125,1095.2,1,-3,4.96
+Barnes,Austin Scott,605131,Barnes Austin,12158,Dodgers,1,2,55,49,438.1,1,6,3.74
+Alfaro,Jorge Mario,595751,Alfaro Jorge,12180,Phillies,1,2,28,28,243.1,-1,-3,4.51
+Smith,Kevan Alan,607345,Smith Kevan,12284,White Sox,1,2,79,70,622.2,-1,1,4.84
+Bandy,Jett Adam,542908,Bandy Jett,12508,Brewers,1,2,50,44,399,0,1,4.87
+Casali,Curtis Michael,592200,Casali Curt,12510,Rays,1,2,8,2,28,0,1,2.57
+Hicks,John Austin,543308,Hicks John,12547,Tigers,1,2,18,12,115.1,0,1,5.54
+Marjama,Michael,605357,Marjama Mike,12594,Mariners,1,2,5,2,20,0,0,4.05
+Lopez,Rafael Manuel,607257,Lopez Raffy,12606,Blue Jays,1,2,24,17,158.1,1,0,4.49
+Davis,Taylor M.,543089,Davis Taylor,12782,Cubs,1,2,1,1,3,0,0,15.00
+McCann,James Thomas,543510,McCann James,12859,Tigers,1,2,103,97,836.1,0,-2,5.70
+Hedges,Austin,595978,Hedges Austin,12976,Padres,1,2,115,109,933.1,4,13,4.59
+Gallagher,Cameron Joseph,595956,Gallagher Cam,12981,Royals,1,2,13,6,64,0,0,3.94
+Susac,Andrew,572180,Susac Andrew,13132,Brewers,1,2,2,2,13,0,0,6.92
+Swihart,Blake Aubry,596119,Swihart Blake,13176,Red Sox,1,2,4,0,12,0,0,0.75
+Zunino,Mike Accorsi,572287,Zunino Mike,13265,Mariners,1,2,120,112,994,-4,3,4.35
+Narvaez,Omar David,553882,Narvaez Omar,13338,White Sox,1,2,83,75,648.1,-2,-4,4.97
+Maile,Luke Richard,571912,Maile Luke,13355,Blue Jays,1,2,46,36,339.1,1,2,3.50
+Murphy,Tom James,608596,Murphy Tom,13499,Rockies,1,2,8,6,54,0,-1,7.00
+Kelly,Carson,608348,Kelly Carson,13620,Cardinals,1,2,31,14,162,1,0,3.94
+Stallings,Jacob Daniel,607732,Stallings Jacob,13723,Pirates,1,2,5,3,33.1,0,-1,5.40
+Nido,Tomas,621512,Nido Tomas,13755,Mets,1,2,3,2,19,0,0,9.47
+Plawecki,Kevin Jeffrey,608700,Plawecki Kevin,13807,Mets,1,2,29,24,223,1,-4,5.00
+Maxwell,Bruce Tyrone,622194,Maxwell Bruce,13866,A's,1,2,74,62,563.1,-2,-2,4.86
+Severino,Pedro,600474,Severino Pedro,14523,Nationals,1,2,10,5,56,-1,0,4.34
+Farmer,Kyle Kyle,571657,Farmer Kyle,14813,Dodgers,1,2,3,0,7,0,0,3.86
+Knapp,Andrew,595284,Knapp Andrew,14942,Phillies,1,2,53,51,448.1,-2,-4,4.80
+Caratini,Victor Manuel,605170,Caratini Victor,14968,Cubs,1,2,12,7,75.2,0,0,2.38
+Garver,Mitchell Lynn,641598,Garver Mitch,15161,Twins,1,2,13,4,50.2,0,0,6.39
+Turner,Stuart Stuart,642156,Turner Stuart,15207,Reds,1,2,28,18,177.1,-2,-2,5.84
+Sisco,Chance Thomas,642082,Sisco Chance,15694,Orioles,1,2,10,4,40,0,0,5.40
+Read,Raudy Miguel,600466,Read Raudy,15766,Nationals,1,2,3,1,11,0,0,4.91
+Torrens,Luis Alfonso,620443,Torrens Luis,15905,Padres,1,2,51,31,310.2,-1,-5,4.81
+Mejia,Francisco Jose,642336,Mejia Francisco,16403,Indians,1,2,3,0,4,0,0,2.25
+Schwarber,Kyle Joseph,656941,Schwarber Kyle,16478,Cubs,1,2,4,0,7,0,0,3.86
+Wallach,Chad Arthur,595453,Wallach Chad,17161,Reds,1,2,3,2,21,0,0,3.43

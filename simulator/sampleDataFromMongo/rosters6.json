@@ -1,0 +1,633 @@
+{
+    "rosters": [
+        {
+    "_id" : "59910412460c8f2410588701",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "4f88f73b-28b2-4ead-853e-dd20c46d8350",
+    "FortyMan" : [ 
+        "595da1197aca71a2bcdc54a6", 
+        "595da1197aca71a2bcdc54b1", 
+        "595da1197aca71a2bcdc54ef", 
+        "595da1197aca71a2bcdc5502", 
+        "595da1197aca71a2bcdc5516", 
+        "595da1197aca71a2bcdc5520", 
+        "595da1197aca71a2bcdc550a", 
+        "595da1197aca71a2bcdc5514", 
+        "595da1197aca71a2bcdc551f", 
+        "595da1197aca71a2bcdc551d", 
+        "595da1197aca71a2bcdc5521", 
+        "595da1197aca71a2bcdc5557", 
+        "595da1197aca71a2bcdc554e", 
+        "595da1197aca71a2bcdc5553", 
+        "595da1197aca71a2bcdc5545", 
+        "595da1197aca71a2bcdc5551", 
+        "595da1197aca71a2bcdc555b", 
+        "595da1197aca71a2bcdc5560", 
+        "595da1197aca71a2bcdc5555", 
+        "595da1197aca71a2bcdc555f", 
+        "595da1197aca71a2bcdc5569", 
+        "595da1197aca71a2bcdc556e", 
+        "595da1197aca71a2bcdc5567", 
+        "595da1197aca71a2bcdc556c", 
+        "595da1197aca71a2bcdc554a", 
+        "595da1197aca71a2bcdc554f", 
+        "595da1197aca71a2bcdc5563", 
+        "595da1197aca71a2bcdc5572", 
+        "595da1197aca71a2bcdc5689", 
+        "595da1197aca71a2bcdc5aa3", 
+        "595da11a7aca71a2bcdc5e2a", 
+        "595da11a7aca71a2bcdc60dd", 
+        "595da11a7aca71a2bcdc6539", 
+        "595da11a7aca71a2bcdc6532", 
+        "595da11a7aca71a2bcdc653c", 
+        "595da11a7aca71a2bcdc6754", 
+        "595da11a7aca71a2bcdc675d", 
+        "595da11b7aca71a2bcdc705a", 
+        "595da11b7aca71a2bcdc7285", 
+        "595da11a7aca71a2bcdc6abc", 
+        "595da11b7aca71a2bcdc6f6c", 
+        "595da11b7aca71a2bcdc7053"
+    ],
+    "Bench" : [ 
+        "595da1197aca71a2bcdc5557", 
+        "595da1197aca71a2bcdc554e"
+    ],
+    "WaiverWire" : [ 
+        "595da1197aca71a2bcdc5553", 
+        "595da1197aca71a2bcdc5545", 
+        "595da1197aca71a2bcdc5551"
+    ],
+    "Bullpen" : [ 
+        "595da1197aca71a2bcdc5555", 
+        "595da1197aca71a2bcdc555f", 
+        "595da1197aca71a2bcdc5569", 
+        "595da1197aca71a2bcdc556e", 
+        "595da1197aca71a2bcdc5567", 
+        "595da1197aca71a2bcdc556c", 
+        "595da1197aca71a2bcdc554a"
+    ],
+    "StartingLineup" : [ 
+        "595da1197aca71a2bcdc54ef", 
+        "595da1197aca71a2bcdc5502", 
+        "595da1197aca71a2bcdc5516", 
+        "595da1197aca71a2bcdc5520", 
+        "595da1197aca71a2bcdc550a", 
+        "595da1197aca71a2bcdc5514"
+    ],
+    "StartingRotation" : [ 
+        "595da1197aca71a2bcdc54a6", 
+        "595da1197aca71a2bcdc54b1", 
+        "595da1197aca71a2bcdc551f", 
+        "595da1197aca71a2bcdc551d", 
+        "595da1197aca71a2bcdc5521"
+    ],
+    "WaiverWire" : [ 
+        "595da1197aca71a2bcdc555b", 
+        "595da1197aca71a2bcdc5560"
+    ],
+    "__v" : 2,
+    "Positions" : [ 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5560",
+                    "FullName" : "Jeff Mathis"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc7053",
+                    "FullName" : "Chris Iannetta"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc555b",
+                    "FullName" : "Chris Herrmann"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Catcher"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5555",
+                    "FullName" : "Paul Goldschmidt"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc555b",
+                    "FullName" : "Chris Herrmann"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "First Base"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5551",
+                    "FullName" : "Brandon Drury"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Second Base"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc555f",
+                    "FullName" : "Jake Lamb"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Third Base"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11b7aca71a2bcdc705a",
+                    "FullName" : "Ketel Marte"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc653c",
+                    "FullName" : "Daniel Descalso"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Shortstop"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5569",
+                    "FullName" : "David Peralta"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6539",
+                    "FullName" : "Gregor Blanco"
+                }, 
+                {
+                    "_id" : "595da11b7aca71a2bcdc6f6c",
+                    "FullName" : "Adam Rosales"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Left Field"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc556c",
+                    "FullName" : "A.J. Pollock"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6539",
+                    "FullName" : "Gregor Blanco"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Center Field"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11a7aca71a2bcdc60dd",
+                    "FullName" : "J.D. Martinez"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5569",
+                    "FullName" : "David Peralta"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6539",
+                    "FullName" : "Gregor Blanco"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Right Field"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5557",
+                    "FullName" : "Zack Greinke"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5689",
+                    "FullName" : "Taijuan Walker"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5521",
+                    "FullName" : "Patrick Corbin"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5553",
+                    "FullName" : "Zack Godley"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc54ef",
+                    "FullName" : "Anthony Banda"
+                }
+            ],
+            "Position" : "Starting Pitcher"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da11b7aca71a2bcdc7285",
+                    "FullName" : "David Hernandez"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc5545",
+                    "FullName" : "Archie Bradley"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc5e2a",
+                    "FullName" : "Jorge De La Rosa"
+                }, 
+                {
+                    "_id" : "595da11a7aca71a2bcdc6532",
+                    "FullName" : "T.J. McFarland"
+                }, 
+                {
+                    "_id" : "595da1197aca71a2bcdc554a",
+                    "FullName" : "Andrew Chafin"
+                }
+            ],
+            "Position" : "Relief Pitcher"
+        }, 
+        {
+            "Players" : [ 
+                {
+                    "_id" : "595da1197aca71a2bcdc5572",
+                    "FullName" : "Fernando Rodney"
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }, 
+                {
+                    "FullName" : " "
+                }
+            ],
+            "Position" : "Closer"
+        }
+    ]
+},
+{
+    "_id" : "5991cb8cae1d0b2710a85351",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "2d170399-070f-415f-b7d0-3490eee0d282",
+    "FortyMan" : [ 
+        "595da1197aca71a2bcdc55f6", 
+        "595da1197aca71a2bcdc553c", 
+        "595da1197aca71a2bcdc5613", 
+        "595da1197aca71a2bcdc5619", 
+        "595da1197aca71a2bcdc561d", 
+        "595da1197aca71a2bcdc564f", 
+        "595da1197aca71a2bcdc5668", 
+        "595da1197aca71a2bcdc561b", 
+        "595da1197aca71a2bcdc5669", 
+        "595da1197aca71a2bcdc5652", 
+        "595da1197aca71a2bcdc5675", 
+        "595da1197aca71a2bcdc5688", 
+        "595da1197aca71a2bcdc5667", 
+        "595da1197aca71a2bcdc5685", 
+        "595da1197aca71a2bcdc59ee", 
+        "595da1197aca71a2bcdc5a9e", 
+        "595da11a7aca71a2bcdc5d7d", 
+        "595da11a7aca71a2bcdc5d44", 
+        "595da11a7aca71a2bcdc5f9c", 
+        "595da11a7aca71a2bcdc5d52", 
+        "595da11a7aca71a2bcdc6638", 
+        "595da11a7aca71a2bcdc663b", 
+        "595da11a7aca71a2bcdc6b91", 
+        "595da11b7aca71a2bcdc6b9b", 
+        "595da11a7aca71a2bcdc6965", 
+        "595da11b7aca71a2bcdc6ecb", 
+        "595da11b7aca71a2bcdc6f32", 
+        "595da11b7aca71a2bcdc754c", 
+        "595da11b7aca71a2bcdc7400", 
+        "595da11b7aca71a2bcdc74d2", 
+        "595da11b7aca71a2bcdc7612", 
+        "595da11a7aca71a2bcdc617a", 
+        "595da11a7aca71a2bcdc63aa", 
+        "595da11a7aca71a2bcdc641d", 
+        "595da11a7aca71a2bcdc652c", 
+        "595da11a7aca71a2bcdc65c7", 
+        "595da11a7aca71a2bcdc663a", 
+        "595da11b7aca71a2bcdc779e", 
+        "595da11a7aca71a2bcdc6a4e", 
+        "595da11b7aca71a2bcdc6f30", 
+        "595da11b7aca71a2bcdc7016", 
+        "595da11b7aca71a2bcdc6f68", 
+        "595da11b7aca71a2bcdc7179"
+    ],
+    "Bench" : [ 
+        "595da1197aca71a2bcdc5668", 
+        "595da1197aca71a2bcdc561b", 
+        "595da1197aca71a2bcdc5669", 
+        "595da1197aca71a2bcdc5652", 
+        "595da1197aca71a2bcdc5675", 
+        "595da1197aca71a2bcdc5688", 
+        "595da1197aca71a2bcdc5667", 
+        "595da1197aca71a2bcdc5685", 
+        "595da1197aca71a2bcdc59ee", 
+        "595da1197aca71a2bcdc5a9e", 
+        "595da11a7aca71a2bcdc5d7d", 
+        "595da11a7aca71a2bcdc5d44", 
+        "595da11a7aca71a2bcdc5f9c", 
+        "595da11a7aca71a2bcdc5d52", 
+        "595da11a7aca71a2bcdc6638", 
+        "595da11a7aca71a2bcdc663b", 
+        "595da11a7aca71a2bcdc6b91"
+    ],
+    "DLTen" : [],
+    "DLSixty" : [],
+    "Bullpen" : [],
+    "Active" : [ 
+        "595da11a7aca71a2bcdc5d7d", 
+        "595da11a7aca71a2bcdc5d44", 
+        "595da11a7aca71a2bcdc5f9c"
+    ],
+    "StartingRotation" : [],
+    "WaiverWire" : [],
+    "__v" : 0
+},
+{
+    "_id" : "5991cdddaaa9851f9cf2c729",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "7fa97df7-b19a-49b9-a01b-e6e963da9978",
+    "FortyMan" : [ 
+        "595da1197aca71a2bcdc5549", 
+        "595da1197aca71a2bcdc56b7", 
+        "595da1197aca71a2bcdc56d2", 
+        "595da1197aca71a2bcdc57a8", 
+        "595da1197aca71a2bcdc57ad", 
+        "595da1197aca71a2bcdc57b3", 
+        "595da1197aca71a2bcdc57e1", 
+        "595da1197aca71a2bcdc57a7", 
+        "595da1197aca71a2bcdc57c7", 
+        "595da1197aca71a2bcdc57e9", 
+        "595da1197aca71a2bcdc57db", 
+        "595da1197aca71a2bcdc57b5", 
+        "595da1197aca71a2bcdc57c9", 
+        "595da1197aca71a2bcdc57c5", 
+        "595da1197aca71a2bcdc5a05", 
+        "595da1197aca71a2bcdc5a1c", 
+        "595da11a7aca71a2bcdc5f7b", 
+        "595da1197aca71a2bcdc5c9e", 
+        "595da11a7aca71a2bcdc6524", 
+        "595da11a7aca71a2bcdc6537", 
+        "595da11a7aca71a2bcdc669c", 
+        "595da11a7aca71a2bcdc68b2", 
+        "595da11a7aca71a2bcdc6ab5", 
+        "595da11a7aca71a2bcdc6a57", 
+        "595da11b7aca71a2bcdc6cbe", 
+        "595da11b7aca71a2bcdc700a", 
+        "595da11b7aca71a2bcdc6ebf", 
+        "595da11b7aca71a2bcdc6f41", 
+        "595da11b7aca71a2bcdc73e4", 
+        "595da11a7aca71a2bcdc62ce", 
+        "595da11a7aca71a2bcdc665c", 
+        "595da11b7aca71a2bcdc714f", 
+        "595da11b7aca71a2bcdc715e", 
+        "595da11b7aca71a2bcdc7406", 
+        "595da11a7aca71a2bcdc6a54", 
+        "595da11b7aca71a2bcdc6e5a", 
+        "595da11b7aca71a2bcdc7030", 
+        "595da11b7aca71a2bcdc7246", 
+        "595da11b7aca71a2bcdc778c"
+    ],
+    "Bench" : [ 
+        "595da1197aca71a2bcdc57b5", 
+        "595da1197aca71a2bcdc57c9", 
+        "595da1197aca71a2bcdc57c5", 
+        "595da1197aca71a2bcdc5a05", 
+        "595da1197aca71a2bcdc5a1c", 
+        "595da11a7aca71a2bcdc5f7b", 
+        "595da1197aca71a2bcdc5c9e", 
+        "595da11a7aca71a2bcdc6524", 
+        "595da11a7aca71a2bcdc6537", 
+        "595da11a7aca71a2bcdc669c", 
+        "595da11a7aca71a2bcdc68b2", 
+        "595da11a7aca71a2bcdc6ab5", 
+        "595da11a7aca71a2bcdc6a57", 
+        "595da11b7aca71a2bcdc6cbe", 
+        "595da11b7aca71a2bcdc700a"
+    ],
+    "DLTen" : [],
+    "DLSixty" : [],
+    "Bullpen" : [],
+    "Active" : [ 
+        "595da1197aca71a2bcdc5c9e", 
+        "595da11a7aca71a2bcdc6524"
+    ],
+    "StartingRotation" : [],
+    "WaiverWire" : [],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "5991cdefaaa9851f9cf2c72a",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "590857c7-fa30-45dc-9e96-d4a8a7f913d6",
+    "FortyMan" : [ 
+        "595da1197aca71a2bcdc5778", 
+        "595da1197aca71a2bcdc58d1", 
+        "595da1197aca71a2bcdc58d6", 
+        "595da1197aca71a2bcdc58ef", 
+        "595da1197aca71a2bcdc58fe", 
+        "595da1197aca71a2bcdc5903", 
+        "595da1197aca71a2bcdc58c8", 
+        "595da1197aca71a2bcdc58cd", 
+        "595da1197aca71a2bcdc58d2", 
+        "595da1197aca71a2bcdc58e6", 
+        "595da1197aca71a2bcdc58eb", 
+        "595da1197aca71a2bcdc58fa", 
+        "595da1197aca71a2bcdc5909", 
+        "595da1197aca71a2bcdc588d", 
+        "595da1197aca71a2bcdc58c9", 
+        "595da1197aca71a2bcdc58ce", 
+        "595da1197aca71a2bcdc58d3", 
+        "595da1197aca71a2bcdc58fb", 
+        "595da1197aca71a2bcdc58d0", 
+        "595da1197aca71a2bcdc58d5", 
+        "595da1197aca71a2bcdc58df", 
+        "595da1197aca71a2bcdc58f3", 
+        "595da1197aca71a2bcdc590c", 
+        "595da1197aca71a2bcdc5911", 
+        "595da1197aca71a2bcdc58ed", 
+        "595da1197aca71a2bcdc58fc", 
+        "595da1197aca71a2bcdc5901", 
+        "595da1197aca71a2bcdc5906", 
+        "595da11a7aca71a2bcdc60e8", 
+        "595da11a7aca71a2bcdc6438", 
+        "595da11a7aca71a2bcdc68f2", 
+        "595da11a7aca71a2bcdc6aaa", 
+        "595da11b7aca71a2bcdc7150", 
+        "595da11b7aca71a2bcdc7169", 
+        "595da11b7aca71a2bcdc7281", 
+        "595da11a7aca71a2bcdc678d", 
+        "595da11b7aca71a2bcdc72ad", 
+        "595da11b7aca71a2bcdc70fd", 
+        "595da11b7aca71a2bcdc7189"
+    ],
+    "Bench" : [],
+    "DLTen" : [],
+    "DLSixty" : [],
+    "Bullpen" : [],
+    "Active" : [],
+    "StartingRotation" : [],
+    "WaiverWire" : [],
+    "__v" : 0
+}
+,
+{
+    "_id" : "5991ce0baaa9851f9cf2c72b",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "97ef0e42-43d7-4e4d-90fa-0b8a9aa22047",
+    "FortyMan" : [],
+    "Bench" : [],
+    "DLTen" : [],
+    "DLSixty" : [],
+    "Bullpen" : [],
+    "Active" : [],
+    "StartingRotation" : [],
+    "WaiverWire" : [],
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "5991ce22aaa9851f9cf2c72c",
+    "LeagueId" : "598a73943ab1875de0fdac01",
+    "TeamId" : "8afc6acf-0f13-4fed-9e3a-f461b766c4ca",
+    "FortyMan" : [ 
+        "595da1197aca71a2bcdc567e", 
+        "595da1197aca71a2bcdc5695", 
+        "595da1197aca71a2bcdc5928", 
+        "595da1197aca71a2bcdc59d4", 
+        "595da1197aca71a2bcdc5aa0", 
+        "595da11a7aca71a2bcdc5d87", 
+        "595da11a7aca71a2bcdc5e3b", 
+        "595da11a7aca71a2bcdc5e4f", 
+        "595da1197aca71a2bcdc5c57", 
+        "595da11a7aca71a2bcdc5d29", 
+        "595da11a7aca71a2bcdc5d7e", 
+        "595da11a7aca71a2bcdc5d88", 
+        "595da11a7aca71a2bcdc5e17", 
+        "595da11a7aca71a2bcdc5e30", 
+        "595da11a7aca71a2bcdc5e1e", 
+        "595da11a7aca71a2bcdc5e4b", 
+        "595da11a7aca71a2bcdc5d80", 
+        "595da11a7aca71a2bcdc5d85", 
+        "595da11a7aca71a2bcdc5dee", 
+        "595da11a7aca71a2bcdc5e16", 
+        "595da11a7aca71a2bcdc5e25", 
+        "595da11a7aca71a2bcdc5e2f", 
+        "595da11a7aca71a2bcdc5e3e", 
+        "595da11a7aca71a2bcdc5e48", 
+        "595da11a7aca71a2bcdc5d70", 
+        "595da11a7aca71a2bcdc5d75", 
+        "595da11a7aca71a2bcdc5e15", 
+        "595da11a7aca71a2bcdc5e29", 
+        "595da11a7aca71a2bcdc5e2e", 
+        "595da11a7aca71a2bcdc618d", 
+        "595da11a7aca71a2bcdc61e2", 
+        "595da11a7aca71a2bcdc6430", 
+        "595da11a7aca71a2bcdc6525", 
+        "595da11a7aca71a2bcdc654c", 
+        "595da11a7aca71a2bcdc6528", 
+        "595da11a7aca71a2bcdc690d", 
+        "595da11b7aca71a2bcdc6ece", 
+        "595da11a7aca71a2bcdc5f6e", 
+        "595da11b7aca71a2bcdc7554", 
+        "595da11a7aca71a2bcdc62f1", 
+        "595da11a7aca71a2bcdc6508", 
+        "595da11a7aca71a2bcdc6792", 
+        "595da11b7aca71a2bcdc7771", 
+        "595da11b7aca71a2bcdc72af", 
+        "595da11b7aca71a2bcdc750c"
+    ],
+    "Bench" : [],
+    "DLTen" : [],
+    "DLSixty" : [],
+    "Bullpen" : [],
+    "Active" : [],
+    "StartingRotation" : [],
+    "WaiverWire" : [],
+    "__v" : 0
+}
+    ]
+}

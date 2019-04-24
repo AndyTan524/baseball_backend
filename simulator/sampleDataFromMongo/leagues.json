@@ -1,0 +1,286 @@
+
+{   
+    "_id" : "598a73943ab1875de0fdac01",
+    "Name" : "World Series",
+    "Teams" : [ 
+        {
+            "Owners" : [ 
+                {
+                    "UserId" : "5953b78dbad61280b4d12914",
+                    "Name" : "Feldman Adam",
+                    "Role" : "0",
+                    "OwnershipPercentage" : "90",
+                    "CreatedUTC" : "Sun, 13 Aug 2017 21:46:10 GMT"
+                }, 
+                {
+                    "UserId" : "5953b78dbad61280b4d12914",
+                    "Name" : "Eddie",
+                    "Role" : "2",
+                    "OwnershipPercentage" : "5",
+                    "CreatedUTC" : "Sun, 13 Aug 2017 21:46:23 GMT"
+                }, 
+                {
+                    "CreatedUTC" : "Sun, 13 Aug 2017 21:46:35 GMT",
+                    "OwnershipPercentage" : "90",
+                    "Role" : "0",
+                    "Name" : "Adam",
+                    "UserId" : "5953b78dbad61280b4d12914"
+                }
+            ],
+            "TeamName" : "ARI",
+            "Name" : "Arizona Diamondbacks",
+            "_id" : "4f88f73b-28b2-4ead-853e-dd20c46d8350",
+            "Financials" : {
+                "UnspentDollars" : "14506078",
+                "ProjectedSpendingCap" : "120000000",
+                "Expendatures" : [ 
+                    {
+                        "Year" : 2016,
+                        "Title" : "Rule 5 Selection",
+                        "Description" : "for Tuffy Gosewisch from KC",
+                        "Value" : -100000
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "Rule 5 Return",
+                        "Description" : "for Gabby Guerrero to ARI roster",
+                        "Value" : 50000
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "Cash Considerations",
+                        "Description" : "STL-ARI as part of Trevor Rosenthal trade",
+                        "Value" : -500000
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "2016 FYPD Spending",
+                        "Description" : "",
+                        "Value" : 5678375
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "2016 IFA Spending",
+                        "Description" : "",
+                        "Value" : 975000
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "Revenue sharing",
+                        "Description" : "2016 Fiscal Year",
+                        "Value" : -12277202
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "Unspent Cash",
+                        "Description" : "2016 Fiscal Year",
+                        "Value" : 6173827
+                    }, 
+                    {
+                        "Year" : 2016,
+                        "Title" : "Budget",
+                        "Description" : "Starting cash",
+                        "Value" : 11000000
+                    }, 
+                    {
+                        "Year" : 2017,
+                        "Title" : "Budget",
+                        "Description" : "Starting cash",
+                        "Value" : 15000000
+                    }
+                ]
+            }
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "ATL",
+            "Name" : "Atlanta Braves",
+            "_id" : "2d170399-070f-415f-b7d0-3490eee0d282"
+        }, 
+        {
+            "Owners" : [ 
+                {
+                    "UserId" : "5953b78dbad61280b4d12914",
+                    "Role" : "0",
+                    "OwnershipPercentage" : "55",
+                    "Name" : "adsf",
+                    "CreatedUTC" : "Wed, 09 Aug 2017 16:24:50 GMT"
+                }, 
+                {
+                    "CreatedUTC" : "Wed, 16 Aug 2017 21:57:19 GMT",
+                    "Name" : "test test",
+                    "OwnershipPercentage" : "55",
+                    "Role" : "0",
+                    "UserId" : "5953e8b8cb35ea03a3073fb5"
+                }
+            ],
+            "TeamName" : "BAL",
+            "Name" : "Baltimore Orioles",
+            "_id" : "7fa97df7-b19a-49b9-a01b-e6e963da9978"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "BOS",
+            "Name" : "Boston Red Sox",
+            "_id" : "590857c7-fa30-45dc-9e96-d4a8a7f913d6"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "CHC",
+            "Name" : "Chicago Cubs",
+            "_id" : "97ef0e42-43d7-4e4d-90fa-0b8a9aa22047"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "COL",
+            "Name" : "Colorado Rockies",
+            "_id" : "8afc6acf-0f13-4fed-9e3a-f461b766c4ca"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "CHW",
+            "Name" : "Chicago White Sox",
+            "_id" : "979fbc7b-cc12-484d-be58-f2a52583e95c"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "CIN",
+            "Name" : "Cincinnati Reds",
+            "_id" : "7f5f7081-e25a-4e38-b67a-2cfc6033c7cc"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "CLE",
+            "Name" : "Cleveland Indians",
+            "_id" : "d9adc2e9-51ac-4ada-ab31-0341dc073744"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "DET",
+            "Name" : "Detroit Tigers",
+            "_id" : "a2125ad1-9b4b-4121-97dd-d0d54e1381ae"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "KC",
+            "Name" : "Kansas City Royals",
+            "_id" : "f161bd3b-9e12-4da2-9800-05f252933c03"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "HOU",
+            "Name" : "Houston Astros",
+            "_id" : "adbc612d-1e7e-4187-8135-64917d40f691"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "LAA",
+            "Name" : "Los Angeles Angels",
+            "_id" : "2e8cfacf-37da-449a-8365-cef4ab6ce4f8"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "NYM",
+            "Name" : "New York Mets",
+            "_id" : "6b6cee09-86e4-4db0-b19f-f0a4e8e1788b"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "MIL",
+            "Name" : "Milwaukee Brewers",
+            "_id" : "1159e0ca-dc2a-4c46-bbaf-e74f786199fe"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "MIN",
+            "Name" : "Minnesota Twins",
+            "_id" : "1b08a293-30be-487a-9339-edda6e05c2fd"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "LAD",
+            "Name" : "Los Angeles Dodgers",
+            "_id" : "8b410557-a5af-40bf-87c2-ce1a08a00ee8"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "NYY",
+            "Name" : "New York Yankees",
+            "_id" : "28b8e3f4-5324-4645-8ee4-166daa9a988f"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "MIA",
+            "Name" : "Miami Marlins",
+            "_id" : "4483b14b-492f-4e45-88d4-d96ea020a5da"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "OAK",
+            "Name" : "Oakland Athletics",
+            "_id" : "7e1dd41e-659b-4880-a946-a40fea213d7b"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "PHI",
+            "Name" : "Philadelphia Phillies",
+            "_id" : "5ebcbe38-1373-49ba-9a16-7ab19acc8d4f"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "STL",
+            "Name" : "St. Louis Cardinals",
+            "_id" : "ee9a2e86-5635-4b37-9a6c-013464acb3f1"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "PIT",
+            "Name" : "Pittsburgh Pirates",
+            "_id" : "e3ffa95c-4afb-4bca-b0db-1e1fa8ba1410"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "SD",
+            "Name" : "San Diego Padres",
+            "_id" : "1abc1e4b-434a-4941-8981-13dd11796e3d"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "SF",
+            "Name" : "San Francisco Giants",
+            "_id" : "e046468f-c744-41db-abeb-82bfd3fdb239"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "SEA",
+            "Name" : "Seattle Mariners",
+            "_id" : "5928697e-3062-4219-841c-44853181f9d0"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "TB",
+            "Name" : "Tampa Bay Rays",
+            "_id" : "2332c18a-8c47-4c96-8889-629a266dc4e7"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "TEX",
+            "Name" : "Texas Rangers",
+            "_id" : "47e95e02-b14f-46da-a167-c5312a7e0855"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "TOR",
+            "Name" : "Toronto Blue Jays",
+            "_id" : "75cfae29-1274-44c4-b609-2092a2bd1266"
+        }, 
+        {
+            "Owners" : [],
+            "TeamName" : "WAS",
+            "Name" : "Washington Nationals",
+            "_id" : "52833339-484b-4a53-8e21-43241a84c8f6"
+        }
+    ],
+    "CreatedUTC" : "2017-08-09T02:29:40.399Z",
+    "__v" : 1
+}

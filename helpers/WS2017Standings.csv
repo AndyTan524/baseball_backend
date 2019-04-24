@@ -1,0 +1,42 @@
+    AL East,Wins,Losses,Win %,GB
+    Yankees,127,35,0.784,-
+    Orioles,85,77,0.525,42
+    Red Sox,80,82,0.494,47
+    Rays,73,89,0.451,54
+    Blue Jays,66,96,0.407,61
+,,,,
+AL Central,Wins,Losses,Win %,GB
+Indians,100,62,0.617,-
+Royals,82,80,0.506,18.0
+White Sox,81,81,0.500,19.0
+Twins,79,83,0.488,21.0
+Tigers,57,105,0.352,43.0
+,,,,
+AL West,Wins,Losses,Win %,GB
+Astros,106,56,0.654,-
+Rangers,100,62,0.617,6.0
+Mariners,59,103,0.364,47.0
+Angels,56,106,0.346,50.0
+A's,48,114,0.296,58.0
+,,,,
+,,,,
+    NL East,Wins,Losses,Win %,GB
+    Marlins,121,41,0.747,-
+    Nationals,119,43,0.735,2
+    Braves,83,79,0.512,38
+    Mets,64,98,0.395,57
+    Phillies,61,101,0.377,60
+,,,,
+NL Central,Wins,Losses,Win %,GB
+Cardinals,102,60,0.630,-
+Cubs,89,73,0.549,13.0
+Reds,69,93,0.426,33.0
+Pirates,66,96,0.407,36.0
+Brewers,56,106,0.346,46.0
+,,,,
+NL West,Wins,Losses,Win %,GB
+Padres,104,58,0.642,-
+Diamondbacks,85,77,0.525,19.0
+Giants,80,82,0.494,24.0
+Dodgers,69,93,0.426,35.0
+Rockies,63,99,0.389,41.0

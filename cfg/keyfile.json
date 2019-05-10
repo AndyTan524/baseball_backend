@@ -1,12 +1,12 @@
 ﻿{
   "type": "service_account",
-  "project_id": "theta-maker-171414",
-  "private_key_id": "533a3141885dc717cb3f59a52cf48ea7d056522a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo4ZjoZd3z9RqZ\nQdXdC22UfXC3e4u4C3rYue0yStKGH495EvqSI5PvK2pFfKh+XUgH+4EW48xqqEw+\nF6nJXEuy9/tS1tdU80lEtLO1++VkFbm7e77A2FmPtlgpY5POB6aROhunaBnXoNbT\nN6IWM8yVVPLiPJncFFQxq0mzWTb9MBDPNphw/gkSAvzrT/ytPisSmE0bMCn2Sowz\nBZJEoU3UVJJwcNKwi34k1YBwCALoL38Yvs6s8wxZ0weZ5DDksxxTG9DH+s0B2cyL\nq8ZyTgYUAePYt1ez6sBU2vAckifOWeFDyT9QxMTiLEbn/dByeYZdmmMNbTKe+9+M\nyiNBQWH5AgMBAAECggEAJqfk0SUoBcRPv07DfiI0he2klEsSMyFlkCAWvBFGWO72\nbzc55aOBJBii7Z7YDnyZlUIrTSr9SliVgwz1jyKyLRf4DgEhLs+1MKXQENLEsgEL\nD3AGvKuI7I1HZsnlNh6oMMvFMq9wYtvs8FHmpwBaTsAwDDrk2OxKTUgwyX2dSZyM\nc/EDA5TmxUNPPWg9UaUzweinNtyem8Xhrz04wnib6jxo1YwRUrMa+KzzpzXfvFib\nNwEWEathOR037CYAwUnBXwE6/hXaqFynhjQuU7cd4zc5eBj3d7Af1kDtE9fUzXa6\n3h5IrVrZt5+eUXywMGvNPlR0wsImgYpMMZLPn/adxQKBgQDglw9eGXFZYb+k/cZf\nsQF9TIEDkyJZ3/00GeGXAfZyGT/c/bS4ApFV7fSL4t23FiygIuYfq8y2hQctC1yQ\nGH5tdWg+Kw6qbOlOhYGi1BDgfX8Vwv1fgzLaP1GZ4r2LxNlxetJYG8atmjX2OVhk\nR3qB4ySMfDjoubL3Fe7dkavDWwKBgQDAgAIcczs1nbHEE7R4LUqhrCT0YfvM+XhX\nadyy5AhjTU9T4qKX7W/C4gwbv4ieRvj2nqup2tjXsQT4sC8t2ztYLV7Bz5NUmOBQ\n7BxOl0S/bZGfjwmwo/OnPg3YUgOQFhHlx1c1GalgXVtK+wOp9dqw0iXrMh3cK2kQ\nZlqlW+zUOwKBgE9xX8A7Y7roNrAYDGmg5RP7Uc9/5jDAaIJbfU67JP+rKsny/E/y\nqJIqv8wTjbXLpDFo5tnhHWKan7UxRaa64024sAz9kgx6xfQ+iWKdfPLLsX5zIMj+\nUaidqTGz4LRmBzx645jDCn4yBFB6bGfcWNtFC5KeBktcFJAONBYwBv/tAoGBAIrh\nT6Sa9hK+jKv7024IrxlpCthNgM7nBQ170MA3iF2sPxk0Hz4hDUq6ryWtz7DxX1j+\nLLdErsEec4nAAqnAy1XYlc6aJZ8ZFG0Ni3af5/d7414MYl9QSc9VE8QHl45yfcMb\nSC2FMA/YCq9T3dbXC0oas0S2SZi4sPol/ivi4EBVAoGAAdcvtcfRDxi106kXIvoV\n+Gd3BtlLurR8LEr1w1RODbiY/XzmTkecTpDZou7W52E8cwzGS+BMUrxdosA+ySFQ\nTyoKFUdun5FATDbOeOAqGVU8/W3b+db554mIG8qMKQjz2M1MALXlgPBcNqlEE2vH\nM0s1TSd/fJk9H1IILL1sxHE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "service@theta-maker-171414.iam.gserviceaccount.com",
-  "client_id": "107197805780002017796",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://accounts.google.com/o/oauth2/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40theta-maker-171414.iam.gserviceaccount.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
